@@ -1,0 +1,22 @@
+ #text{
+    color: aqua;
+    font-family: 'Poppins', sans-serif;
+}
+ .text2{
+    color: red;
+      }
+ .text3{
+        color: red;
+    }
+
+ .text-center{
+    width: 50%;
+    margin-top: 5%;
+    text-align: center;
+margin-left: 25%;
+font-size: 20px;
+font-family: 'Poppins', sans-serif;
+background-color: brown;
+color: black; 
+padding: 3%;
+border-radius: 10px;}
